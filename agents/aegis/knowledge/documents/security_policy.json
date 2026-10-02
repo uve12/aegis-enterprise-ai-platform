@@ -1,0 +1,9 @@
+{
+  "document": "security_policy.txt",
+  "classification": "confidential",
+  "allowed_groups": [
+    "engineering",
+    "security",
+    "admins"
+  ]
+}

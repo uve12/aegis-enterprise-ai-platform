@@ -1,0 +1,11 @@
+NovaRetail Security Policy
+
+Employees must use approved authentication mechanisms.
+
+Passwords must never be stored in source code.
+
+Production credentials must be stored in an approved secret management system.
+
+Employees may only access data required for their role.
+
+Sensitive documents must not be shared with unauthorized users.

@@ -1,4 +1,4 @@
-from agents.data_analyst.tools import validate_read_only_sql
+from agents.aegis.data_analyst.tools import validate_read_only_sql
 
 
 TABLE = "demo-project.aegis_demo.orders"

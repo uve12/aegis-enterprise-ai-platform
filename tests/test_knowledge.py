@@ -1,4 +1,4 @@
-from agents.knowledge.tools import search_company_documents
+from agents.aegis.knowledge.tools import search_company_documents
 
 
 def test_refund_policy_is_retrievable():

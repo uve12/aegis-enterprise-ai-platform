@@ -1,0 +1,26 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+.DS_Store
+*.log
+.pytest_cache/
+.coverage
+htmlcov/
+dist/
+build/
+*.egg-info/
+client_secret.json
+token.json
+credentials.json
+# Google Cloud credentials / private keys
+*.json.key
+*-service-account.json
+service-account*.json
+gcp-credentials*.json
+# Google ADK local state
+.adk/

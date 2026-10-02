@@ -1,4 +1,4 @@
-from agents.incident.tools import get_incident
+from agents.aegis.incident.tools import get_incident
 
 
 def test_known_incident():
