@@ -1,0 +1,17 @@
+[
+  {
+    "question": "How long do customers have to request a refund?",
+    "expected_answer": "30 calendar days",
+    "expected_source": "refund_policy.txt"
+  },
+  {
+    "question": "Who must approve a refund above $500?",
+    "expected_answer": "A manager",
+    "expected_source": "refund_policy.txt"
+  },
+  {
+    "question": "What must an incident report contain?",
+    "expected_answer": "Impact, timeline, evidence, root cause and remediation",
+    "expected_source": "incident_response.txt"
+  }
+]

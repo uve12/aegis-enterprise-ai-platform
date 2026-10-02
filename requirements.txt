@@ -1,0 +1,16 @@
+google-adk
+google-genai
+google-cloud-aiplatform
+google-cloud-bigquery
+google-cloud-storage
+google-cloud-secret-manager
+google-cloud-logging
+google-cloud-monitoring
+fastapi
+uvicorn
+python-dotenv
+pydantic
+google-auth
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2

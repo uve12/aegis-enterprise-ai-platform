@@ -1,0 +1,9 @@
+NovaRetail Incident Response Policy
+
+SEV1 incidents require immediate escalation.
+
+SEV2 incidents require investigation and documented remediation.
+
+Incident reports must contain impact, timeline, evidence, root cause and remediation.
+
+Production changes associated with an incident must be documented.

@@ -1,0 +1,16 @@
+{
+  "users": {
+    "alice@novaretail.example": {
+      "groups": ["employees", "support"]
+    },
+    "bob@novaretail.example": {
+      "groups": ["employees", "engineering"]
+    },
+    "manager@novaretail.example": {
+      "groups": ["employees", "managers"]
+    },
+    "admin@novaretail.example": {
+      "groups": ["employees", "admins"]
+    }
+  }
+}
